@@ -1,12 +1,24 @@
-## Hi there 👋
+# Daily Commit team
+> "작은 습관이 큰 변화를 이끌어낸다."
 
-<!--
+이 조직은 꾸준한 개발 습관을 만들어가기 위해 만들어졌습니다. <br>
+매일 최소 1커밋을 목표로, 하루하루 성장하는 기록을 남기고 있습니다.
 
-**Here are some ideas to get you started:**
+# 🎯 목적
+* 1일 1커밋을 통해 꾸준한 코딩 습관을 유지합니다.
+* 다양한 기술 스택을 학습하며 실습하고 기록합니다.
+* 학습한 내용을 프로젝트와 실습 코드로 정리합니다.
+* 장기적으로 포트폴리오를 만들어 갑니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# 🤷‍♂️ 누구를 위한
+이 챌린지는 아래와 같은 사람들을 위해 시작되었습니다.
+* 자신의 개발을 기록하고 싶은 사람
+* 꾸준하게 무언가를 만들고 싶은 사람
+* 함께 도전을 실천하고 싶은 사람
+
+# 📎Collaboration
+현재는 개인 기록 중심이지만, 이후 협업 프로젝트 및 스터디 저장소로 확장 가능성을 열어둘 예정입니다.
+
+# 🙌 Let’s Grow Consistently.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
